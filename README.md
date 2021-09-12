@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Beginner0Programmer
-- 👀 I’m interested in ... programming .
-- 🌱 I’m currently learning ... dsa .
-- 💞️ I’m looking to collaborate on ... .
-- 📫 How to reach me ... .
+- 👋 Hi, I’m @Deepak
+- 👀 I’m interested in programming .
+- 🌱 I’m currently learning Data structures and algorithm .
 
 <!---
 Beginner0Programmer/Beginner0Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
